@@ -1,0 +1,25 @@
+// app global css in SCSS form
+.text-lobster {
+  font-family: "Lobster", "Roboto", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+}
+
+
+// Styles
+.small-screen-only {
+  @media (max-width: $breakpoint-xs-max) {
+    display: block;
+  }
+  @media (min-width: $breakpoint-sm-min) {
+    display: none;
+  }
+}
+
+.large-screen-only {
+  @media (min-width: $breakpoint-xs-max) {
+    display: none;
+  }
+  @media (min-width: $breakpoint-sm-min) {
+    display: block;
+  }
+}
