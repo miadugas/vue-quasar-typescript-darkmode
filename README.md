@@ -1,4 +1,4 @@
-# Quasar App Template (quasar-vue-firebase-pinia)
+# Quasar App Template with Darkmode (quasar-vue-firebase-pinia)
 
 A Quasar Project
 
