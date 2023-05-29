@@ -1,4 +1,4 @@
-# Quasar App (quasar-firebase-pinia)
+# Quasar App Template (quasar-vue-firebase-pinia)
 
 A Quasar Project
 
